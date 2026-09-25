@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/scrapingbee",
   "title": "Scrapingbee",
   "description": "ScrapingBee MCP — wraps the ScrapingBee headless-scraping API (scrapingbee.com)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/scrapingbee",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-scrapingbee",
